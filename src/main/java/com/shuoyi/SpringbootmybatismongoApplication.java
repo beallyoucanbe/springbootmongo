@@ -9,6 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 @SpringBootApplication
 public class SpringbootmybatismongoApplication {
 
+
 	public static void main(String[] args) {
 		SpringApplication.run(SpringbootmybatismongoApplication.class, args);
 	}
